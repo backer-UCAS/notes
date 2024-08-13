@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "5b8acc18e2d6ca18",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d77098ae7a8140e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "878d8d645aae8fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RulePool.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a375ae8aae914aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dbus-specification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38b7b8de80a618b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "44a5a852746964a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e415d6838763d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4fa40570842d8193",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TODO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65ba03c4f21b37cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a59608c8a0519c64",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f292fcd77100530",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dd03edefcc71f81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dbus-specification.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ed805ab6d451cf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dbus-specification.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f47b4b80ee6be3f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51a94a1147bb1b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dbus-specification.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a375ae8aae914aa7",
+  "lastOpenFiles": [
+    "dbus消息路由机制.md",
+    "Pasted image 20240809113603.png",
+    "BusContext.md",
+    "dbus-daemon启动过程分析.md",
+    "unix domain socket.md",
+    "DBusObjectTree.md",
+    "dbus-specification.md",
+    "DBusCounter.md",
+    "tmp.md",
+    "RulePool.md",
+    "未命名.md",
+    "bus_transaction_capture.md",
+    "BusTransaction.md",
+    "DBusMessageFilter  dbus过滤器.md",
+    "Checkpoint/Restore功能应该加在dbus的哪个接口中比较合适？.md",
+    "DBusTransportVTable.md",
+    "DBusTransport.md",
+    "使用criu对服务进程进行checkpoint.md",
+    "使用criu对unix socket服务进程进行checkpoint.md",
+    "对dbus工作流程的分析.md",
+    "BusConnectionData.md",
+    "dbus_server_listen.md",
+    "dbus监视器.md",
+    "dbus_connection_add_filter.md",
+    "bus_connections_setup_connection.md",
+    "dbus_connection_set_watch_functions.md",
+    "Pasted image 20240720231547.png",
+    "Pasted image 20240720231505.png",
+    "Pasted image 20240720231135.png",
+    "Pasted image 20240720230537.png",
+    "Pasted image 20240720230450.png",
+    "Pasted image 20240718211725.png",
+    "Pasted image 20240718211703.png",
+    "criu-for-dbus-roadmap.canvas",
+    "Checkpoint"
+  ]
+}

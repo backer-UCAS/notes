@@ -1,0 +1,8 @@
+这里先从客户端程序与dbus-daemon建立通信的角度进行分析
+
+dbus-daemon入口代码位于bus/main.c文件中，main函数中会调用bus_context_new函数创建一个针对总线的BusContext结构体，BusContext 结构体应该是一个总线对应一个。
+
+BusContext结构体进行总线连接的管理过程如下：
+
+
+在main函数中进过一些列初始化函数以后，会进入_dbus_loop_run函数中。
